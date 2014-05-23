@@ -36,3 +36,6 @@ port: 80,
 This example assumes that you have already configured your LiveOak instance for the 'todomvc' example. 
 
 The easiest way to do so is to install the LiveOak example quickstart which can be found here: https://github.com/liveoak-io/openshift-liveoak-example-quickstart
+
+Once your liveoak instance has been configured for the ToDoMVC app, you will need to configure a few steps to give your application access to LiveOak. Please start following the instructions at "Create roles for your application" available in the readme here:
+https://github.com/liveoak-io/liveoak-examples/tree/master/todomvc
