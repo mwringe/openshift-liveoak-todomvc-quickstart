@@ -67,8 +67,8 @@ A few more steps will need to be completed before you can run the ToDoMVC exampl
   * click 'add client' and fill in the following values:
     * Name: "todomvc-html-client"
     * Platform: HTML-5
-    * Redirect URI: "http://todomvc-USERNAME.rhcloud.com/*" (click button "Add")
-    * Web Origins: "http://todomvc-USERNAME.rhcloud.com" (click button "Add")
+    * Redirect URI: "http://todo-USERNAME.rhcloud.com/*" (click button "Add")
+    * Web Origins: "http://todo-USERNAME.rhcloud.com" (click button "Add")
     * Scope: select both "admin" and "user" scopes
   * click 'save'
 
